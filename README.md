@@ -28,42 +28,8 @@ This project uses the following technologies:
 - **Webhook Integration**: Seamlessly integrate your workflow with webhook support.
 - **Professional Deployment Walkthrough**: Step-by-step instructions for deploying your projects.
 
-## ⚡ Getting Started
 
-To get started with the project locally, follow these steps:
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-repo/code-editor.git
-    cd code-editor
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    npm install
-    # or
-    yarn install
-    # or
-    pnpm install
-    ```
-
-3. Run the development server:
-
-    ```bash
-    npm run dev
-    # or
-    yarn dev
-    # or
-    pnpm dev
-    # or
-    bun dev
-    ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the editor in action.
-
-> **Tip**: The page auto-updates as you edit the code, so no need to refresh manually.
 
 ### Start Editing
 
