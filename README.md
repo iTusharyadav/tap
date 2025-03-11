@@ -13,12 +13,6 @@ This project uses the following technologies:
 - **Clerk**: Authentication platform for user management.
 - **TypeScript**: For type safety and enhanced development experience.
 
-### Tech Stack Logos
-
-- ![Next.js Logo](URL-to-Next.js-logo)
-- ![Convex Logo](URL-to-Convex-logo)
-- ![Clerk Logo](URL-to-Clerk-logo)
-- ![TypeScript Logo](URL-to-TypeScript-logo)
 
 ## 🌟 Features
 
