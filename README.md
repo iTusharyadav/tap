@@ -77,9 +77,6 @@ We hope you enjoy using this code editor. Feel free to contribute, suggest impro
 
 
 
-
-Gotcha! Let’s go for something more **experimental and unique** — a theme that breaks away from the norm. I’m thinking of a **minimalist, monochrome aesthetic**, inspired by **tech noir** and **cyberpunk art** with abstract vibes. It's all about sharp contrasts, modern typography, and clean structure. Think of it as a **futuristic yet subtle** design that stands out without being over the top.
-
 ---
 
 # **CodeCraft**: Master Your Code ⚡
