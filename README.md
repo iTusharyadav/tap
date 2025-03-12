@@ -55,13 +55,6 @@ For detailed deployment instructions, refer to the [Next.js deployment documenta
 - Check out our [community code sharing platform](#) where you can share your projects, provide feedback, and learn from others.
 - Follow us on [Twitter](#) to stay updated on the latest developments.
 
-## 🎨 Screenshots & GIFs
-
-Here are some previews of the editor in action:
-
-![Code Editor Screenshot](URL-to-screenshot)
-
-![Tech Stack GIF](URL-to-your-tech-stack-gif)
 
 ---
 
