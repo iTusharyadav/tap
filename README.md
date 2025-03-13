@@ -56,9 +56,7 @@ For detailed deployment instructions, refer to the [Next.js deployment documenta
 - Follow us on [Twitter](#) to stay updated on the latest developments.
 
 
----
 
-We hope you enjoy using this code editor. Feel free to contribute, suggest improvements, or report any issues!
 
 
 
