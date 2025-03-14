@@ -21,7 +21,7 @@ Welcome to the Code Editor project! This is an advanced online IDE built with Ne
 
 ---
 
-# **CodeCraft**: Master Your Code ⚡
+# **Tap**: Master Your Code ⚡
 
 Welcome to **CodeCraft**, the code editor built for developers who want to innovate. Clean, powerful, and cutting-edge. CodeCraft combines **real-time collaboration**, **smart error handling**, and **neon-inspired themes** to create the best coding environment for today’s world.
 
