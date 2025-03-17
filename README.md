@@ -142,8 +142,3 @@ Got ideas? Found a bug? We welcome contributions! Here’s how to get involved:
 ## 📱 **Contact Us**
 
 Have questions or need help? Reach out at **support@codecrafteditor.com** or explore our [Documentation](https://docs.codecrafteditor.com).
-
----
-
-
-
