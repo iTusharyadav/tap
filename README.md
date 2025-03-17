@@ -145,6 +145,5 @@ Have questions or need help? Reach out at **support@codecrafteditor.com** or exp
 
 ---
 
-**Disclaimer:** Prolonged use of **CodeCraft** may lead to increased productivity, unparalleled focus, and enhanced coding skills. Proceed with caution. 🚨
 
 
