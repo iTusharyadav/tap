@@ -147,9 +147,4 @@ Have questions or need help? Reach out at **support@codecrafteditor.com** or exp
 
 **Disclaimer:** Prolonged use of **CodeCraft** may lead to increased productivity, unparalleled focus, and enhanced coding skills. Proceed with caution. 🚨
 
----
 
-### **Why This Theme?**
-
-
-What do you think of this approach? Let me know if it hits the mark or if you want more adjustments!
