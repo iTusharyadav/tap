@@ -151,6 +151,5 @@ Have questions or need help? Reach out at **support@codecrafteditor.com** or exp
 
 ### **Why This Theme?**
 
-This style combines **monochrome simplicity** with a **bold, minimalist approach**, putting the focus on code without overwhelming the user with excess design elements. It’s inspired by a **clean, no-frills aesthetic** that is sleek and professional, yet still captivating. We use **sharp contrasts** and **simple typography** for ultimate readability and a timeless, modern look.
 
 What do you think of this approach? Let me know if it hits the mark or if you want more adjustments!
