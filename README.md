@@ -134,10 +134,7 @@ Before you start, ensure you have the following:
 
 Got ideas? Found a bug? We welcome contributions! Here’s how to get involved:
 
-1. Fork the repo.
-2. Create a new branch.
-3. Make your changes.
-4. Open a pull request with your changes.
+
 
 ## 📱 **Contact Us**
 
