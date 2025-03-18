@@ -132,7 +132,7 @@ Before you start, ensure you have the following:
 
 ## 🤝 **Contributing**
 
-Got ideas? Found a bug? We welcome contributions! Here’s how to get involved:
+
 
 
 
