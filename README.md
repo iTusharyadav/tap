@@ -130,7 +130,7 @@ Before you start, ensure you have the following:
 
 ---
 
-## 🤝 **Contributing**
+## 🤝 
 
 
 
