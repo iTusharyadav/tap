@@ -6,19 +6,6 @@ Welcome to the Code Editor project! This is an advanced online IDE built with Ne
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 # **Tap**: Master Your Code ⚡
