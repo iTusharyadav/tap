@@ -135,4 +135,4 @@ Before you start, ensure you have the following:
 
 ## 📱 **Contact Us**
 
-Have questions or need help? Reach out at **support@codecrafteditor.com** or explore our [Documentation](https://docs.codecrafteditor.com).
+Have questions or need help? Reach out at **support@codecrafteditor.com**.
