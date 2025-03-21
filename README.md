@@ -4,7 +4,6 @@ Welcome to the Code Editor project! This is an advanced online IDE built with Ne
 
 ![Tech Stack GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ2bmdvNm8zeHdrNTlxajFrNTd6OTNwZW5xaDhicGM3OXI2dmI2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif) 
 
-
 ---
 
 # **Tap**: Master Your Code ⚡
