@@ -67,7 +67,6 @@ Get started quickly with **Clerk** for easy, password-free sign-ups. **Seamless 
 
 Ready to deploy your project? Follow our **step-by-step guide** for smooth deployment to popular platforms, ensuring your code goes live without a hitch.
 
-
 ---
 
 ## 🛠 **Installation**
